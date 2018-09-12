@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AppZOO M171</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="txtNomeAnimal">Animal Name:</string>
+    <string name="txtIdade">Age</string>
+    <string name="txtCategoria">Category</string>
+    <string name="txtSelecione">Select...</string>
+    <string name="txtNovaCategoria">New category...</string>
+    <string name="hintNome">Enter the name of animal</string>
+    <string name="hintIdade">Enter the age of Animal</string>
+    <string name="hintCategoria">Enter the category</string>
+    <string name="txtSalvar">Save</string>
+    <string name="txtCancelar">Cancel</string>
+
+    <string name="txtAtencao">Attention!!!</string>
+    <string name="txtCamposObrigatorios">Enter required fields, name and category</string>
+
+
+
+</resources>
